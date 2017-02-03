@@ -1,0 +1,14 @@
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\bin\Debug\Soundwave.exe.config
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\obj\Debug\Soundwave.vbprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\obj\Debug\Soundwave.Resources.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\obj\Debug\Soundwave.vbproj.GenerateResource.Cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\bin\Debug\Soundwave.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\bin\Debug\Soundwave.pdb
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\bin\Debug\Soundwave.xml
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\obj\Debug\Soundwave.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\obj\Debug\Soundwave.xml
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\obj\Debug\Soundwave.pdb
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\obj\Debug\Soundwave.Form1.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\bin\Debug\CoreAudioApi.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\bin\Debug\DarkFlatUI.dll
+C:\Users\Me\Documents\Visual Studio 2015\Projects\VB.Net\Soundwave\Soundwave\bin\Debug\DarkFlatUI.pdb
